@@ -15,3 +15,35 @@ arange()
 ndim
 reshape()
 complex numbers
+set
+
+### Mean Median Mode
+Data and operations to calculate mean median and mode on Excel
+
+### Visualization with Python
+Using Matplotlib.pyplot
+Bar graph
+Pie Chart
+Histogram
+Scatter plot
+
+### Variance and Standard Deviation
+Using numpy
+Variance 
+Standard Deviation
+Percentile
+
+### Statistics
+Defining various statistics on a dataset using excel
+
+### Understanding Pandas
+Using different functions of pandas
+Dataframes
+
+### Data Cleaning
+Different problems with dataset
+descriptive analysis
+finding nulls
+dropping nulls (columns/rows)
+
+
