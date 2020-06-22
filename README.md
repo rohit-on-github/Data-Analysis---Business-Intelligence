@@ -46,4 +46,19 @@ descriptive analysis
 finding nulls
 dropping nulls (columns/rows)
 
-
+### Excel Functions
+SUM
+SUMIF
+SUMIFS
+COUNT
+COUNTIF
+COUNTIFS
+VLOOKUP
+HLOOKUP
+IFERROR
+OR
+IF
+SUBTOTAL
+Dropdown / Data Validity
+Bar Chart
+Pie Chart
