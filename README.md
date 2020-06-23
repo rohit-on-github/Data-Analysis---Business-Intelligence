@@ -62,3 +62,11 @@ SUBTOTAL
 Dropdown / Data Validity
 Bar Chart
 Pie Chart
+
+### Excel Functions 2
+Named Ranges
+Pivot Table
+Pivot Table Chart
+Rounding numbers
+Index
+Match
