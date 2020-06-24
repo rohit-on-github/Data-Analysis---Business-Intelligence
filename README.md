@@ -70,3 +70,7 @@ Pivot Table Chart
 Rounding numbers
 Index
 Match
+
+### Probability
+Finding Probability using Excel
+Different Types of Distribution
