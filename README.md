@@ -74,3 +74,5 @@ Match
 ### Probability
 Finding Probability using Excel
 Different Types of Distribution
+
+### Linear Regression
